@@ -1,0 +1,105 @@
+{
+  "pets": [
+    {
+      "id": 1,
+      "name": "Buddy",
+      "type": "Dog",
+      "breed": "Golden Retriever",
+      "age": 2,
+      "image": "buddy.jpg",
+      "description": "A friendly dog who loves to play.",
+      "isFavorite": false
+    },
+    {
+      "id": 2,
+      "name": "Mittens",
+      "type": "Cat",
+      "breed": "Persian",
+      "age": 3,
+      "image": "mittens.jpg",
+      "description": "A calm cat who enjoys lounging in the sun.",
+      "isFavorite": true
+    },
+    {
+      "id": 3,
+      "name": "Max",
+      "type": "Dog",
+      "breed": "Labrador Retriever",
+      "age": 4,
+      "image": "max.jpg",
+      "description": "A loyal and confident dog who loves chasing after toys.",
+      "isFavorite": false
+    },
+    {
+      "id": 4,
+      "name": "Rex",
+      "type": "Dog",
+      "breed": "Golden Retriever",
+      "age": 5,
+      "image": "rex.jpg",
+      "description": "A friendly and loving dog who enjoys playing fetch.",
+      "isFavorite": true
+    },
+    {
+      "id": 5,
+      "name": "Socks",
+      "type": "Cat",
+      "breed": "Siamese",
+      "age": 2,
+      "image": "socks.jpg",
+      "description": "A friendly and playful cat who loves to cuddle with people.",
+      "isFavorite": false
+    },
+
+    {
+      "id": 6,
+      "name": "Whiskers",
+      "type": "Cat",
+      "breed": "Maine Coon",
+      "age": 3,
+      "image": "whiskers.jpg",
+      "description": "A calm and intelligent cat who enjoys socializing with other cats.",
+      "isFavorite": true
+    },
+    {
+      "id": 7,
+      "name": "Socks",
+      "type": "Cat",
+      "breed": "Siamese",
+      "age": 2,
+      "image": "socks.jpg",
+      "description": "A friendly and playful cat who loves to cuddle with people.",
+      "isFavorite": false
+    },
+    {
+      "id": 8,
+      "name": "Whiskers",
+      "type": "Cat",
+      "breed": "Maine Coon",
+      "age": 3,
+      "image": "whiskers.jpg",
+      "description": "A calm and intelligent cat who enjoys socializing with other cats.",
+      "isFavorite": true
+    },
+    {
+      "id": 9,
+      "name": "Rex",
+      "type": "Dog",
+      "breed": "Golden Retriever",
+      "age": 5,
+      "image": "rex.jpg",
+      "description": "A friendly and loving dog who enjoys playing fetch.",
+      "isFavorite": true
+    },
+    {
+      "id": 10,
+      "name": "Socks",
+      "type": "Cat",
+      "breed": "Siamese",
+      "age": 2,
+      "image": "socks.jpg",
+      "description": "A friendly and playful cat who loves to cuddle with people.",
+      "isFavorite": false
+    }
+  ]
+}
