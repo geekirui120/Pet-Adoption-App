@@ -9,8 +9,8 @@
       "age": 3,
       "gender": "Male",
       "description": "A friendly and energetic dog who loves to play fetch.",
-      "image": "https://i.imgur.com/1.jpg",
-      "adopted": false
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo-yq7etW11_bMz-2SaOPypgcVaPvvkqmyWOqWrfUoty6x5Ae014jNSPCVg1loQskppk4&usqp=CAU",
+      "adopted": true
     },
     {
       "id": 2,
@@ -20,8 +20,8 @@
       "age": 2,
       "gender": "Female",
       "description": "A curious and affectionate cat who enjoys exploring her surroundings.",
-      "image": "https://i.imgur.com/2.jpg",
-      "adopted": false
+      "image": "https://images.saymedia-content.com/.image/t_share/MjA2ODU0NTcxMzkyMjQ2ODM1/the-11-rarest-cat-in-the-world.jpg",
+      "adopted": true
     },
     {
       "id": 3,
@@ -31,7 +31,7 @@
       "age": 4,
       "gender": "Male",
       "description": "A loyal and good-natured dog who loves long walks.",
-      "image": "https://i.imgur.com/3.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6YyCjyEGUiYK7axcat91Sq9OI7RMHk55nm6kRq5Ch_zNYTod0UBJGoC4M_cxBXKjOv0Q&usqp=CAU",
       "adopted": false
     },
     {
@@ -42,8 +42,8 @@
       "age": 5,
       "gender": "Female",
       "description": "A calm and gentle cat who enjoys lounging in the sun.",
-      "image": "https://i.imgur.com/4.jpg",
-      "adopted": false
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw37sYSGttBC-lyNmhhDQD2om8f7RrynhpKewQ0PxRMYrer5Blesd_ICEKfc5qpAxZTNE&usqp=CAU",
+      "adopted": true
     },
     {
       "id": 5,
@@ -53,7 +53,7 @@
       "age": 2,
       "gender": "Male",
       "description": "An active and playful dog who loves water activities.",
-      "image": "https://i.imgur.com/5.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKVxQsz76AqISXY1fkRxuejTKY99b-NtJvsrhiNUqKQiTJJeWbiJuEIBdHYVKiSZqSpV8&usqp=CAU",
       "adopted": false
     },
     {
@@ -64,7 +64,7 @@
       "age": 1,
       "gender": "Male",
       "description": "A mischievous and playful kitten who loves chasing toys.",
-      "image": "https://i.imgur.com/6.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXwCBS1_ar_tugtLTA85lzw_AMOOD-MG7wNqDj_X-tuFap2z_nDQd4ORShVuyrNp6MCu0&usqp=CAU",
       "adopted": false
     },
     {
@@ -75,7 +75,7 @@
       "age": 3,
       "gender": "Female",
       "description": "An intelligent and loving dog who enjoys learning new tricks.",
-      "image": "https://i.imgur.com/7.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeJuLlDVqUnd3NrYtZo30DzBE-fZiqs7vbO9EA1rgtyj93sCVuQpCiPb9G8ptUGwyBA9I&usqp=CAU",
       "adopted": false
     },
     {
@@ -86,8 +86,8 @@
       "age": 4,
       "gender": "Male",
       "description": "A strikingly beautiful cat who loves climbing and exploring.",
-      "image": "https://i.imgur.com/8.jpg",
-      "adopted": false
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWBWL3N7Ki5FjQ5s1eJdWWB0WjIdARCBCAlkieUL2P6D9Md_RzmL8Cz_Q_iI1dvndOYmc&usqp=CAU",
+      "adopted": true
     },
     {
       "id": 9,
@@ -97,8 +97,8 @@
       "age": 5,
       "gender": "Male",
       "description": "A strong and playful dog who loves tug-of-war.",
-      "image": "https://i.imgur.com/9.jpg",
-      "adopted": false
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVoTxUPmO_7Rh2iMZeNcdWYUdJWTTEQrEIMN9knXvt1oAhhMszuDVHD7_6ckOPT0Eq12s&usqp=CAU",
+      "adopted": true
     },
     {
       "id": 10,
@@ -108,7 +108,7 @@
       "age": 6,
       "gender": "Female",
       "description": "A quiet and regal cat who enjoys being pampered.",
-      "image": "https://i.imgur.com/10.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgo3Ii468D6Hb417T8P06IzL395KjnNiz3bUuTzQi9cOHtHiw2V-ubfJgL9xHpmCUGFSw&usqp=CAU",
       "adopted": false
     },
     {
@@ -119,7 +119,7 @@
       "age": 4,
       "gender": "Female",
       "description": "A small and affectionate dog who loves cuddles.",
-      "image": "https://i.imgur.com/11.jpg",
+      "image": "https://worlddogfinder.com/imager/1300x740/upload/saarloos_wolfdog.jpg?ezimgfmt=ng%3Awebp%2Fngcb29",
       "adopted": false
     },
     {
@@ -130,7 +130,7 @@
       "age": 3,
       "gender": "Male",
       "description": "A sleek and friendly cat who loves attention.",
-      "image": "https://i.imgur.com/12.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbVn5qdxBj2_YhKisofkkX1u1Vjb-Eh1B8KA&s",
       "adopted": false
     },
     {
@@ -141,8 +141,8 @@
       "age": 2,
       "gender": "Female",
       "description": "A sweet and energetic dog who loves to run.",
-      "image": "https://i.imgur.com/13.jpg",
-      "adopted": false
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgih09M1QyMZM3LtbbAzXXvsm1TusvUKSxuQ&s",
+      "adopted": true
     },
     {
       "id": 14,
@@ -152,8 +152,8 @@
       "age": 5,
       "gender": "Female",
       "description": "A gentle and loving cat who enjoys being around people.",
-      "image": "https://i.imgur.com/14.jpg",
-      "adopted": false
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhe4ACioDAypB74zg96U1-UZzsR1Dj8nVpD6yFOt546jo5sJmO7NOPvIkeRCG64uktcg0&usqp=CAU",
+      "adopted": true
     },
     {
       "id": 15,
@@ -163,7 +163,7 @@
       "age": 3,
       "gender": "Male",
       "description": "A curious and adventurous dog who loves digging.",
-      "image": "https://i.imgur.com/15.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFIG_KbPcbNBE4BJ-10RsnsqD-Jy_pe5WScg&s",
       "adopted": false
     },
     {
@@ -174,8 +174,8 @@
       "age": 2,
       "gender": "Female",
       "description": "A playful and friendly cat who loves to climb.",
-      "image": "https://i.imgur.com/16.jpg",
-      "adopted": false
+      "image": "https://www.fourpaws.com/-/media/Project/OneWeb/FourPaws/Images/articles/cat-corner/long-hair-cat-breeds/siberian-forest-cat.jpg",
+      "adopted": true
     },
     {
       "id": 17,
@@ -185,8 +185,8 @@
       "age": 4,
       "gender": "Male",
       "description": "A calm and loving dog who enjoys short walks.",
-      "image": "https://i.imgur.com/17.jpg",
-      "adopted": false
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQquq5TxpfbeJuwJES9YRfXPFoGFExuS6ykg&s",
+      "adopted": true
     },
     {
       "id": 18,
@@ -196,7 +196,7 @@
       "age": 3,
       "gender": "Male",
       "description": "A charming and curious cat with folded ears.",
-      "image": "https://i.imgur.com/18.jpg",
+      "image": "https://www.ellevetsciences.com/wp-content/uploads/2023/02/ev_blog_hypoallergenic-cat-breeds.jpg",
       "adopted": false
     },
     {
@@ -207,8 +207,8 @@
       "age": 5,
       "gender": "Female",
       "description": "An intelligent and energetic dog who loves to herd.",
-      "image": "https://i.imgur.com/19.jpg",
-      "adopted": false
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgV2xzmJSxnGXJkkKOIXuENMCDu_l6O15xw&s",
+      "adopted": true
     },
     {
       "id": 20,
@@ -218,8 +218,8 @@
       "age": 2,
       "gender": "Female",
       "description": "A unique and affectionate cat who loves warm spots.",
-      "image": "https://i.imgur.com/20.jpg",
-      "adopted": false
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWB7qjPkrpt0FRYkqeV41SdkpYrrzH8DB3Zw&s",
+      "adopted": true
     }
   ]
 }
