@@ -1,105 +1,226 @@
+
 {
   "pets": [
     {
       "id": 1,
       "name": "Buddy",
-      "type": "Dog",
+      "species": "Dog",
       "breed": "Golden Retriever",
-      "age": 2,
-      "image": "buddy.jpg",
-      "description": "A friendly dog who loves to play.",
-      "isFavorite": false
+      "age": 3,
+      "gender": "Male",
+      "description": "A friendly and energetic dog who loves to play fetch.",
+      "image": "https://i.imgur.com/1.jpg",
+      "adopted": false
     },
     {
       "id": 2,
-      "name": "Mittens",
-      "type": "Cat",
-      "breed": "Persian",
-      "age": 3,
-      "image": "mittens.jpg",
-      "description": "A calm cat who enjoys lounging in the sun.",
-      "isFavorite": true
+      "name": "Luna",
+      "species": "Cat",
+      "breed": "Siamese",
+      "age": 2,
+      "gender": "Female",
+      "description": "A curious and affectionate cat who enjoys exploring her surroundings.",
+      "image": "https://i.imgur.com/2.jpg",
+      "adopted": false
     },
     {
       "id": 3,
       "name": "Max",
-      "type": "Dog",
-      "breed": "Labrador Retriever",
+      "species": "Dog",
+      "breed": "Beagle",
       "age": 4,
-      "image": "max.jpg",
-      "description": "A loyal and confident dog who loves chasing after toys.",
-      "isFavorite": false
+      "gender": "Male",
+      "description": "A loyal and good-natured dog who loves long walks.",
+      "image": "https://i.imgur.com/3.jpg",
+      "adopted": false
     },
     {
       "id": 4,
-      "name": "Rex",
-      "type": "Dog",
-      "breed": "Golden Retriever",
+      "name": "Bella",
+      "species": "Cat",
+      "breed": "Maine Coon",
       "age": 5,
-      "image": "rex.jpg",
-      "description": "A friendly and loving dog who enjoys playing fetch.",
-      "isFavorite": true
+      "gender": "Female",
+      "description": "A calm and gentle cat who enjoys lounging in the sun.",
+      "image": "https://i.imgur.com/4.jpg",
+      "adopted": false
     },
     {
       "id": 5,
-      "name": "Socks",
-      "type": "Cat",
-      "breed": "Siamese",
+      "name": "Charlie",
+      "species": "Dog",
+      "breed": "Labrador",
       "age": 2,
-      "image": "socks.jpg",
-      "description": "A friendly and playful cat who loves to cuddle with people.",
-      "isFavorite": false
+      "gender": "Male",
+      "description": "An active and playful dog who loves water activities.",
+      "image": "https://i.imgur.com/5.jpg",
+      "adopted": false
     },
-
     {
       "id": 6,
-      "name": "Whiskers",
-      "type": "Cat",
-      "breed": "Maine Coon",
-      "age": 3,
-      "image": "whiskers.jpg",
-      "description": "A calm and intelligent cat who enjoys socializing with other cats.",
-      "isFavorite": true
+      "name": "Milo",
+      "species": "Cat",
+      "breed": "Tabby",
+      "age": 1,
+      "gender": "Male",
+      "description": "A mischievous and playful kitten who loves chasing toys.",
+      "image": "https://i.imgur.com/6.jpg",
+      "adopted": false
     },
     {
       "id": 7,
-      "name": "Socks",
-      "type": "Cat",
-      "breed": "Siamese",
-      "age": 2,
-      "image": "socks.jpg",
-      "description": "A friendly and playful cat who loves to cuddle with people.",
-      "isFavorite": false
+      "name": "Daisy",
+      "species": "Dog",
+      "breed": "Poodle",
+      "age": 3,
+      "gender": "Female",
+      "description": "An intelligent and loving dog who enjoys learning new tricks.",
+      "image": "https://i.imgur.com/7.jpg",
+      "adopted": false
     },
     {
       "id": 8,
-      "name": "Whiskers",
-      "type": "Cat",
-      "breed": "Maine Coon",
-      "age": 3,
-      "image": "whiskers.jpg",
-      "description": "A calm and intelligent cat who enjoys socializing with other cats.",
-      "isFavorite": true
+      "name": "Simba",
+      "species": "Cat",
+      "breed": "Bengal",
+      "age": 4,
+      "gender": "Male",
+      "description": "A strikingly beautiful cat who loves climbing and exploring.",
+      "image": "https://i.imgur.com/8.jpg",
+      "adopted": false
     },
     {
       "id": 9,
-      "name": "Rex",
-      "type": "Dog",
-      "breed": "Golden Retriever",
+      "name": "Rocky",
+      "species": "Dog",
+      "breed": "Boxer",
       "age": 5,
-      "image": "rex.jpg",
-      "description": "A friendly and loving dog who enjoys playing fetch.",
-      "isFavorite": true
+      "gender": "Male",
+      "description": "A strong and playful dog who loves tug-of-war.",
+      "image": "https://i.imgur.com/9.jpg",
+      "adopted": false
     },
     {
       "id": 10,
-      "name": "Socks",
-      "type": "Cat",
-      "breed": "Siamese",
+      "name": "Chloe",
+      "species": "Cat",
+      "breed": "Persian",
+      "age": 6,
+      "gender": "Female",
+      "description": "A quiet and regal cat who enjoys being pampered.",
+      "image": "https://i.imgur.com/10.jpg",
+      "adopted": false
+    },
+    {
+      "id": 11,
+      "name": "Bailey",
+      "species": "Dog",
+      "breed": "Shih Tzu",
+      "age": 4,
+      "gender": "Female",
+      "description": "A small and affectionate dog who loves cuddles.",
+      "image": "https://i.imgur.com/11.jpg",
+      "adopted": false
+    },
+    {
+      "id": 12,
+      "name": "Leo",
+      "species": "Cat",
+      "breed": "Russian Blue",
+      "age": 3,
+      "gender": "Male",
+      "description": "A sleek and friendly cat who loves attention.",
+      "image": "https://i.imgur.com/12.jpg",
+      "adopted": false
+    },
+    {
+      "id": 13,
+      "name": "Ruby",
+      "species": "Dog",
+      "breed": "Cocker Spaniel",
       "age": 2,
-      "image": "socks.jpg",
-      "description": "A friendly and playful cat who loves to cuddle with people.",
-      "isFavorite": false
+      "gender": "Female",
+      "description": "A sweet and energetic dog who loves to run.",
+      "image": "https://i.imgur.com/13.jpg",
+      "adopted": false
+    },
+    {
+      "id": 14,
+      "name": "Coco",
+      "species": "Cat",
+      "breed": "Ragdoll",
+      "age": 5,
+      "gender": "Female",
+      "description": "A gentle and loving cat who enjoys being around people.",
+      "image": "https://i.imgur.com/14.jpg",
+      "adopted": false
+    },
+    {
+      "id": 15,
+      "name": "Cooper",
+      "species": "Dog",
+      "breed": "Dachshund",
+      "age": 3,
+      "gender": "Male",
+      "description": "A curious and adventurous dog who loves digging.",
+      "image": "https://i.imgur.com/15.jpg",
+      "adopted": false
+    },
+    {
+      "id": 16,
+      "name": "Mittens",
+      "species": "Cat",
+      "breed": "Domestic Shorthair",
+      "age": 2,
+      "gender": "Female",
+      "description": "A playful and friendly cat who loves to climb.",
+      "image": "https://i.imgur.com/16.jpg",
+      "adopted": false
+    },
+    {
+      "id": 17,
+      "name": "Oscar",
+      "species": "Dog",
+      "breed": "Bulldog",
+      "age": 4,
+      "gender": "Male",
+      "description": "A calm and loving dog who enjoys short walks.",
+      "image": "https://i.imgur.com/17.jpg",
+      "adopted": false
+    },
+    {
+      "id": 18,
+      "name": "Peanut",
+      "species": "Cat",
+      "breed": "Scottish Fold",
+      "age": 3,
+      "gender": "Male",
+      "description": "A charming and curious cat with folded ears.",
+      "image": "https://i.imgur.com/18.jpg",
+      "adopted": false
+    },
+    {
+      "id": 19,
+      "name": "Sadie",
+      "species": "Dog",
+      "breed": "Border Collie",
+      "age": 5,
+      "gender": "Female",
+      "description": "An intelligent and energetic dog who loves to herd.",
+      "image": "https://i.imgur.com/19.jpg",
+      "adopted": false
+    },
+    {
+      "id": 20,
+      "name": "Mochi",
+      "species": "Cat",
+      "breed": "Sphynx",
+      "age": 2,
+      "gender": "Female",
+      "description": "A unique and affectionate cat who loves warm spots.",
+      "image": "https://i.imgur.com/20.jpg",
+      "adopted": false
     }
   ]
 }
+
