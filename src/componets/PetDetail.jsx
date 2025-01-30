@@ -6,12 +6,7 @@ function PetDetail({ toggleFavorite }) {
   const [pet, setPet] = useState(null); 
 
   useEffect(() => {
-<<<<<<< HEAD
-    fetch(`http://localhost:8001/pets/${id}`) 
-=======
-
-    fetch(`http://localhost:8001/pets/${id}`)
->>>>>>> 7d0d939a98b4a6c7cc88eac647ac0b9b10db3755
+    fetch(`http://localhost:8001/pets/${id}`)     
       .then((res) => res.json()) 
       .then((data) => setPet(data))
       .catch((error) => {

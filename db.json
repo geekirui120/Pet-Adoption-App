@@ -45,12 +45,7 @@
       "gender": "Female",
       "description": "A calm and gentle cat who enjoys lounging in the sun.",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw37sYSGttBC-lyNmhhDQD2om8f7RrynhpKewQ0PxRMYrer5Blesd_ICEKfc5qpAxZTNE&usqp=CAU",
-      "adopted": true,
-<<<<<<< HEAD
-      "isFavorite": true
-=======
-      "isFavorite": false
->>>>>>> 7d0d939a98b4a6c7cc88eac647ac0b9b10db3755
+      "adopted": true
     },
     {
       "id": "5",
