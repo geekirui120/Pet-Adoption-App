@@ -1,8 +1,7 @@
-
 {
   "pets": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Buddy",
       "species": "Dog",
       "breed": "Golden Retriever",
@@ -10,10 +9,11 @@
       "gender": "Male",
       "description": "A friendly and energetic dog who loves to play fetch.",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo-yq7etW11_bMz-2SaOPypgcVaPvvkqmyWOqWrfUoty6x5Ae014jNSPCVg1loQskppk4&usqp=CAU",
-      "adopted": true
+      "adopted": true,
+      "isFavorite": false
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Luna",
       "species": "Cat",
       "breed": "Siamese",
@@ -21,10 +21,11 @@
       "gender": "Female",
       "description": "A curious and affectionate cat who enjoys exploring her surroundings.",
       "image": "https://images.saymedia-content.com/.image/t_share/MjA2ODU0NTcxMzkyMjQ2ODM1/the-11-rarest-cat-in-the-world.jpg",
-      "adopted": true
+      "adopted": true,
+      "isFavorite": false
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Max",
       "species": "Dog",
       "breed": "Beagle",
@@ -32,10 +33,11 @@
       "gender": "Male",
       "description": "A loyal and good-natured dog who loves long walks.",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6YyCjyEGUiYK7axcat91Sq9OI7RMHk55nm6kRq5Ch_zNYTod0UBJGoC4M_cxBXKjOv0Q&usqp=CAU",
-      "adopted": false
+      "adopted": false,
+      "isFavorite": false
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Bella",
       "species": "Cat",
       "breed": "Maine Coon",
@@ -43,10 +45,11 @@
       "gender": "Female",
       "description": "A calm and gentle cat who enjoys lounging in the sun.",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw37sYSGttBC-lyNmhhDQD2om8f7RrynhpKewQ0PxRMYrer5Blesd_ICEKfc5qpAxZTNE&usqp=CAU",
-      "adopted": true
+      "adopted": true,
+      "isFavorite": true
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Charlie",
       "species": "Dog",
       "breed": "Labrador",
@@ -57,7 +60,7 @@
       "adopted": false
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Milo",
       "species": "Cat",
       "breed": "Tabby",
@@ -68,7 +71,7 @@
       "adopted": false
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Daisy",
       "species": "Dog",
       "breed": "Poodle",
@@ -79,7 +82,7 @@
       "adopted": false
     },
     {
-      "id": 8,
+      "id": "8",
       "name": "Simba",
       "species": "Cat",
       "breed": "Bengal",
@@ -90,7 +93,7 @@
       "adopted": true
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "Rocky",
       "species": "Dog",
       "breed": "Boxer",
@@ -101,7 +104,7 @@
       "adopted": true
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Chloe",
       "species": "Cat",
       "breed": "Persian",
@@ -112,7 +115,7 @@
       "adopted": false
     },
     {
-      "id": 11,
+      "id": "11",
       "name": "Bailey",
       "species": "Dog",
       "breed": "Shih Tzu",
@@ -123,7 +126,7 @@
       "adopted": false
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "Leo",
       "species": "Cat",
       "breed": "Russian Blue",
@@ -134,7 +137,7 @@
       "adopted": false
     },
     {
-      "id": 13,
+      "id": "13",
       "name": "Ruby",
       "species": "Dog",
       "breed": "Cocker Spaniel",
@@ -145,7 +148,7 @@
       "adopted": true
     },
     {
-      "id": 14,
+      "id": "14",
       "name": "Coco",
       "species": "Cat",
       "breed": "Ragdoll",
@@ -156,7 +159,7 @@
       "adopted": true
     },
     {
-      "id": 15,
+      "id": "15",
       "name": "Cooper",
       "species": "Dog",
       "breed": "Dachshund",
@@ -167,7 +170,7 @@
       "adopted": false
     },
     {
-      "id": 16,
+      "id": "16",
       "name": "Mittens",
       "species": "Cat",
       "breed": "Domestic Shorthair",
@@ -178,7 +181,7 @@
       "adopted": true
     },
     {
-      "id": 17,
+      "id": "17",
       "name": "Oscar",
       "species": "Dog",
       "breed": "Bulldog",
@@ -189,7 +192,7 @@
       "adopted": true
     },
     {
-      "id": 18,
+      "id": "18",
       "name": "Peanut",
       "species": "Cat",
       "breed": "Scottish Fold",
@@ -200,7 +203,7 @@
       "adopted": false
     },
     {
-      "id": 19,
+      "id": "19",
       "name": "Sadie",
       "species": "Dog",
       "breed": "Border Collie",
@@ -211,7 +214,7 @@
       "adopted": true
     },
     {
-      "id": 20,
+      "id": "20",
       "name": "Mochi",
       "species": "Cat",
       "breed": "Sphynx",
@@ -223,4 +226,3 @@
     }
   ]
 }
-
