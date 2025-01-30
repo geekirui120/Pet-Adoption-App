@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Navbar from './components/Navbar';
-import PetList from './components/PetList';
-import PetDetail from './components/PetDetail';
-import FilterPanel from './components/FilterPanel';
-import Favorites from './components/Favorites';
+import Navbar from './componets/Navbar';
+import PetList from './componets/PetList';
+import PetDetail from './componets/PetDetail';
+import FilterPanel from './componets/FilterPanel';
+import Favorites from './componets/Favorites';
 import './App.css';
 
 function App() {
