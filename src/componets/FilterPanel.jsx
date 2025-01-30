@@ -9,7 +9,7 @@ function FilterPanel({ filter, setFilter }) {
     <div className="filter-panel">
       <select name="type" value={filter.type} onChange={handleChange}>
         <option value="">All Types</option>
-        <option value="Dog">Dog </option>
+        <option value="Dog">Dog</option>
         <option value="Cat">Cat</option>
       </select>
       <select name="breed" value={filter.breed} onChange={handleChange}>
@@ -20,4 +20,5 @@ function FilterPanel({ filter, setFilter }) {
     </div>
   );
 }
+
 export default FilterPanel;
