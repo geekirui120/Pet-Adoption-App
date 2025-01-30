@@ -1,54 +1,57 @@
-
 {
   "pets": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Buddy",
-      "species": "Dog",
+      "type": "Dog",
       "breed": "Golden Retriever",
       "age": 3,
       "gender": "Male",
       "description": "A friendly and energetic dog who loves to play fetch.",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo-yq7etW11_bMz-2SaOPypgcVaPvvkqmyWOqWrfUoty6x5Ae014jNSPCVg1loQskppk4&usqp=CAU",
-      "adopted": true
+      "adopted": true,
+      "isFavorite": false
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Luna",
-      "species": "Cat",
+      "type": "Cat",
       "breed": "Siamese",
       "age": 2,
       "gender": "Female",
       "description": "A curious and affectionate cat who enjoys exploring her surroundings.",
       "image": "https://images.saymedia-content.com/.image/t_share/MjA2ODU0NTcxMzkyMjQ2ODM1/the-11-rarest-cat-in-the-world.jpg",
-      "adopted": true
+      "adopted": true,
+      "isFavorite": false
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Max",
-      "species": "Dog",
+      "type": "Dog",
       "breed": "Beagle",
       "age": 4,
       "gender": "Male",
       "description": "A loyal and good-natured dog who loves long walks.",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6YyCjyEGUiYK7axcat91Sq9OI7RMHk55nm6kRq5Ch_zNYTod0UBJGoC4M_cxBXKjOv0Q&usqp=CAU",
-      "adopted": false
+      "adopted": false,
+      "isFavorite": false
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Bella",
-      "species": "Cat",
+      "type": "Cat",
       "breed": "Maine Coon",
       "age": 5,
       "gender": "Female",
       "description": "A calm and gentle cat who enjoys lounging in the sun.",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw37sYSGttBC-lyNmhhDQD2om8f7RrynhpKewQ0PxRMYrer5Blesd_ICEKfc5qpAxZTNE&usqp=CAU",
-      "adopted": true
+      "adopted": true,
+      "isFavorite": false
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Charlie",
-      "species": "Dog",
+      "type": "Dog",
       "breed": "Labrador",
       "age": 2,
       "gender": "Male",
@@ -57,9 +60,9 @@
       "adopted": false
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Milo",
-      "species": "Cat",
+      "type": "Cat",
       "breed": "Tabby",
       "age": 1,
       "gender": "Male",
@@ -68,9 +71,9 @@
       "adopted": false
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Daisy",
-      "species": "Dog",
+      "type": "Dog",
       "breed": "Poodle",
       "age": 3,
       "gender": "Female",
@@ -79,9 +82,9 @@
       "adopted": false
     },
     {
-      "id": 8,
+      "id": "8",
       "name": "Simba",
-      "species": "Cat",
+      "type": "Cat",
       "breed": "Bengal",
       "age": 4,
       "gender": "Male",
@@ -90,9 +93,9 @@
       "adopted": true
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "Rocky",
-      "species": "Dog",
+      "type": "Dog",
       "breed": "Boxer",
       "age": 5,
       "gender": "Male",
@@ -101,20 +104,21 @@
       "adopted": true
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Chloe",
-      "species": "Cat",
+      "type": "Cat",
       "breed": "Persian",
       "age": 6,
       "gender": "Female",
       "description": "A quiet and regal cat who enjoys being pampered.",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgo3Ii468D6Hb417T8P06IzL395KjnNiz3bUuTzQi9cOHtHiw2V-ubfJgL9xHpmCUGFSw&usqp=CAU",
-      "adopted": false
+      "adopted": false,
+      "isFavorite": false
     },
     {
-      "id": 11,
+      "id": "11",
       "name": "Bailey",
-      "species": "Dog",
+      "type": "Dog",
       "breed": "Shih Tzu",
       "age": 4,
       "gender": "Female",
@@ -123,20 +127,21 @@
       "adopted": false
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "Leo",
-      "species": "Cat",
+      "type": "Cat",
       "breed": "Russian Blue",
       "age": 3,
       "gender": "Male",
       "description": "A sleek and friendly cat who loves attention.",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbVn5qdxBj2_YhKisofkkX1u1Vjb-Eh1B8KA&s",
-      "adopted": false
+      "adopted": false,
+      "isFavorite": false
     },
     {
-      "id": 13,
+      "id": "13",
       "name": "Ruby",
-      "species": "Dog",
+      "type": "Dog",
       "breed": "Cocker Spaniel",
       "age": 2,
       "gender": "Female",
@@ -145,9 +150,9 @@
       "adopted": true
     },
     {
-      "id": 14,
+      "id": "14",
       "name": "Coco",
-      "species": "Cat",
+      "type": "Cat",
       "breed": "Ragdoll",
       "age": 5,
       "gender": "Female",
@@ -156,9 +161,9 @@
       "adopted": true
     },
     {
-      "id": 15,
+      "id": "15",
       "name": "Cooper",
-      "species": "Dog",
+      "type": "Dog",
       "breed": "Dachshund",
       "age": 3,
       "gender": "Male",
@@ -167,20 +172,21 @@
       "adopted": false
     },
     {
-      "id": 16,
+      "id": "16",
       "name": "Mittens",
-      "species": "Cat",
+      "type": "Cat",
       "breed": "Domestic Shorthair",
       "age": 2,
       "gender": "Female",
       "description": "A playful and friendly cat who loves to climb.",
       "image": "https://www.fourpaws.com/-/media/Project/OneWeb/FourPaws/Images/articles/cat-corner/long-hair-cat-breeds/siberian-forest-cat.jpg",
-      "adopted": true
+      "adopted": true,
+      "isFavorite": false
     },
     {
-      "id": 17,
+      "id": "17",
       "name": "Oscar",
-      "species": "Dog",
+      "type": "Dog",
       "breed": "Bulldog",
       "age": 4,
       "gender": "Male",
@@ -189,9 +195,9 @@
       "adopted": true
     },
     {
-      "id": 18,
+      "id": "18",
       "name": "Peanut",
-      "species": "Cat",
+      "type": "Cat",
       "breed": "Scottish Fold",
       "age": 3,
       "gender": "Male",
@@ -200,9 +206,9 @@
       "adopted": false
     },
     {
-      "id": 19,
+      "id": "19",
       "name": "Sadie",
-      "species": "Dog",
+      "type": "Dog",
       "breed": "Border Collie",
       "age": 5,
       "gender": "Female",
@@ -211,9 +217,9 @@
       "adopted": true
     },
     {
-      "id": 20,
+      "id": "20",
       "name": "Mochi",
-      "species": "Cat",
+      "type": "Cat",
       "breed": "Sphynx",
       "age": 2,
       "gender": "Female",
@@ -223,4 +229,3 @@
     }
   ]
 }
-
