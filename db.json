@@ -79,7 +79,8 @@
       "gender": "Female",
       "description": "An intelligent and loving dog who enjoys learning new tricks.",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeJuLlDVqUnd3NrYtZo30DzBE-fZiqs7vbO9EA1rgtyj93sCVuQpCiPb9G8ptUGwyBA9I&usqp=CAU",
-      "adopted": false
+      "adopted": false,
+      "isFavorite": false
     },
     {
       "id": "8",
@@ -124,7 +125,8 @@
       "gender": "Female",
       "description": "A small and affectionate dog who loves cuddles.",
       "image": "https://worlddogfinder.com/imager/1300x740/upload/saarloos_wolfdog.jpg?ezimgfmt=ng%3Awebp%2Fngcb29",
-      "adopted": false
+      "adopted": false,
+      "isFavorite": false
     },
     {
       "id": "12",
@@ -169,7 +171,8 @@
       "gender": "Male",
       "description": "A curious and adventurous dog who loves digging.",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFIG_KbPcbNBE4BJ-10RsnsqD-Jy_pe5WScg&s",
-      "adopted": false
+      "adopted": false,
+      "isFavorite": false
     },
     {
       "id": "16",

@@ -55,6 +55,10 @@ function App() {
       <FilterPanel filter={filter} setFilter={setFilter} />
       <Routes>
       <Route path="/" element={<Navigate to="/pets" />} />
+<<<<<<< HEAD
+=======
+          
+>>>>>>> App.jsx
         <Route
           path="/pets"
           element={<PetList pets={filteredPets} toggleFavorite={toggleFavorite} />}

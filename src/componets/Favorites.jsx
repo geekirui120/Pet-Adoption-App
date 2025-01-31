@@ -14,7 +14,7 @@ function Favorites({ favorites, toggleFavorite }) {
           </div>
         ))
       ) : (
-        <p>No favorites added</p>
+        <h2>No favorites added</h2>
       )}
     </div>
   );
