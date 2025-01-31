@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import Navbar from './componets/Navbar';
 import PetList from './componets/PetList';
 import PetDetail from './componets/PetDetail';
@@ -54,6 +54,7 @@ function App() {
       <Navbar />
       <FilterPanel filter={filter} setFilter={setFilter} />
       <Routes>
+      <Route path="/" element={<Navigate to="/pets" />} />
         <Route
           path="/pets"
           element={<PetList pets={filteredPets} toggleFavorite={toggleFavorite} />}
