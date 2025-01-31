@@ -124,7 +124,7 @@
       "description": "A small and affectionate dog who loves cuddles.",
       "image": "https://worlddogfinder.com/imager/1300x740/upload/saarloos_wolfdog.jpg?ezimgfmt=ng%3Awebp%2Fngcb29",
       "adopted": false,
-      "isFavorite": true
+      "isFavorite": false
     },
     {
       "id": "12",
@@ -170,7 +170,7 @@
       "description": "A curious and adventurous dog who loves digging.",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFIG_KbPcbNBE4BJ-10RsnsqD-Jy_pe5WScg&s",
       "adopted": false,
-      "isFavorite": true
+      "isFavorite": false
     },
     {
       "id": "16",

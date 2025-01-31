@@ -6,7 +6,7 @@ function PetDetail({ toggleFavorite }) {
   const [pet, setPet] = useState(null); 
 
   useEffect(() => {
-    fetch(`http://localhost:8001/pets/${id}`)     
+    fetch(`http://localhost:8001/pets/${id}`)    
       .then((res) => res.json()) 
       .then((data) => setPet(data))
       .catch((error) => {
@@ -14,7 +14,7 @@ function PetDetail({ toggleFavorite }) {
       });
   }, [id]); 
 
-  if (!pet) return <div>Loading pet details...</div>;
+  if (!pet) return <h2>Loading pet details...</h2>;
 
   return (
     <div className="pet-detail">
